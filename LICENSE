@@ -1,3 +1,17 @@
+Unless otherwise noted, this project is distributed under the
+MIT license, which appears below. Some files in the distribution are
+distributed under a different license. These exceptions are as
+follows:
+ * ./jsdoc-master.zip
+   * https://github.com/jsdoc3/jsdoc3.github.com
+   * Creative Commons Attribution-ShareAlike 3.0 Unported license
+ * D3.js (included from a remote site in index.html)
+   * http://d3js.org/
+   * BSD license
+ * JQuery (included from a remote site in index.html)
+   * https://jquery.com/
+   * JQuery license
+
 MIT License
 
 Copyright (c) 2016 sander lenaerts
